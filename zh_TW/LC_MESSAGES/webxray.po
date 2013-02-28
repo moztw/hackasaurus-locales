@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-13 14:22+0100\n"
-"PO-Revision-Date: 2012-03-11 19:16+0200\n"
-"Last-Translator: darkx <xatierlike@gmail.com>\n"
+"PO-Revision-Date: 2012-03-15 04:25+0200\n"
+"Last-Translator: Peter <petercpg@mail.moztw.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr "發表你的混搭"
 #. uproot-dialog:intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "There are two ways you can publish your remix and share it with others."
-msgstr "有兩種方法可以讓你發表你的混搭並和朋友分享。"
+msgstr "有兩個發表並分享你的混搭給朋友的方法。"
 
 #. uproot-dialog:error
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -124,12 +124,12 @@ msgstr "抱歉，有錯誤發生了。請稍候並再試一次。"
 #. uproot-dialog:view-html-desc
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Grab the HTML source of your remix and publish it yourself."
-msgstr "抓你混搭的 HTML 原始碼並自行發表。"
+msgstr "取得混搭完成的 HTML 原始碼並自行發表。"
 
 #. uproot-dialog:to-internet-desc
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Instantly publish your remix to a URL that anyone can view."
-msgstr "立即將你的混搭發佈為一個 URL 使每個人都可以看到。"
+msgstr "立即將你的混搭發佈到一個任何人都可以開啟的網址。"
 
 # 94%
 #. command-manager:cannot-undo-html
@@ -155,7 +155,7 @@ msgstr "<span>沒東西可以重做了！</span>"
 #. command-manager:undid
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Undid"
-msgstr "還原"
+msgstr "已還原"
 
 #. key-names:RIGHT
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -200,17 +200,17 @@ msgstr "停用 goggles"
 #. command-descriptions:remix
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Replace/remix selected element"
-msgstr "更換/混合選定的元素"
+msgstr "替換 / 混搭所選的元素"
 
 #. command-descriptions:help
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "This help reference"
-msgstr "這是教學"
+msgstr "此說明"
 
 #. command-descriptions:css-quasimode
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "View/edit computed style of selected element"
-msgstr "觀看 / 編輯計算所以選的元素風格"
+msgstr "觀看 / 編輯所選元素的計算樣式"
 
 #. command-descriptions:undo
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -225,7 +225,7 @@ msgstr "下降到子元素"
 #. command-descriptions:remove
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Remove selected element"
-msgstr "刪除選定的元素"
+msgstr "刪除所選元素"
 
 #. command-descriptions:uproot
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -240,7 +240,7 @@ msgstr "提升到父元素"
 #. command-descriptions:redo
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Redo"
-msgstr "復原"
+msgstr "重作"
 
 #. dialog-common:close
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -265,14 +265,14 @@ msgstr "X-Ray Goggles"
 #. input:unload-blocked
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "You have made unsaved changes to this page."
-msgstr "您在此頁面還有未更動的修改。"
+msgstr "您在此頁面還有未儲存的修改。"
 
 #. input:link-click-blocked
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid ""
 "If you would like to follow that link, please deactivate the goggles "
 "first by pressing ESC."
-msgstr "如果你想要跟著那個鏈結，請先按 ESC 關閉 goggles。"
+msgstr "如果你想開啟該鏈結，請先按 ESC 關閉 Goggles。"
 
 #. hud-overlay:and
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -282,7 +282,7 @@ msgstr "與"
 #. hud-overlay:pointing-at
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "pointing at"
-msgstr "指在"
+msgstr "指到"
 
 #. hud-overlay:focused-intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -297,17 +297,17 @@ msgstr "id"
 #. hud-overlay:ancestor-intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "It is inside a"
-msgstr "這是在一個的裏面"
+msgstr "這是在一個"
 
 #. hud-overlay:element
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "element"
-msgstr "元素"
+msgstr "元素的裏面"
 
 #. hud-overlay:default-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Web X-Ray Goggles activated! Press ESC to deactivate.</span>"
-msgstr "<span>Web X-Ray Goggles 激活成功！按 ESC 關閉。</span>"
+msgstr "<span>Web X-Ray Goggles 啟用成功！按 ESC 關閉。</span>"
 
 #. hud-overlay:with
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
